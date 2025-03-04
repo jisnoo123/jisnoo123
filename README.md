@@ -1,4 +1,4 @@
-👋 Hi
+Hi, <br>
 I am Jisnoo Dev Pal, currently a second year student at the Ramakrishna Mission Residential College (Autonomous), Narendrapur, Kolkata.
 
 <!---
