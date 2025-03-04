@@ -1,5 +1,6 @@
-Hi, <br>
-I am Jisnoo Dev Pal, currently a second year student at the Ramakrishna Mission Residential College (Autonomous), Narendrapur, Kolkata.
+I am a second-year Computer Science student with a passion for problem-solving, continuous learning, and innovation. I have a strong interest in Reinforcement Learning and leveraging AI for good. Besides that, I'm dedicated to contributing to and advancing open-source software projects.
+<br>
+
 
 <!---
 jisnoo123/jisnoo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
