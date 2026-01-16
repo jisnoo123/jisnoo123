@@ -1,4 +1,8 @@
-I am a third year Computer Science student at the Ramakrishna Mission Residential College, Narendrapur. My research interest lies in Reinforcement Learning. I am an avid explorer in my field, always pursuing new knowledge and appreciating its underlying beauty.
+I am a third year B.Sc.(Hons.) Computer Science student at the Ramakrishna Mission Residential College(Autonomous), Narendrapur.
+
+I am an intellectual explorer in my discipline.
+
+My research interest lies in Reinforcement Learning.
 
 <!---
 jisnoo123/jisnoo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
