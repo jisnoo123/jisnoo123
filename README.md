@@ -1,4 +1,4 @@
-I am a third year B.Sc.(Hons.) Computer Science student at the Ramakrishna Mission Residential College(Autonomous), Narendrapur.
+I am a fourth year B.Sc.(Hons.) Computer Science student at the Ramakrishna Mission Residential College(Autonomous), Narendrapur.
 
 I am an intellectual explorer in my discipline.
 
