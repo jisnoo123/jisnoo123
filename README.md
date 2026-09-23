@@ -2,7 +2,7 @@ I am a fourth year B.Sc.(Hons.) Computer Science student at the Ramakrishna Miss
 
 I am an intellectual explorer in my discipline.
 
-I'm greatly interested in Reinforcement Learning.
+I'm interested in C and Compilers!
 
 <!---
 jisnoo123/jisnoo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
